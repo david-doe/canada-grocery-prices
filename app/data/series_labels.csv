@@ -1,0 +1,130 @@
+series,series_fr,parent,depth
+Food,Aliments,All-items,0
+Food purchased from stores,Aliments achetés en magasin,Food,1
+Meat,Viande,Food purchased from stores,2
+Fresh or frozen meat (excluding poultry),Viande fraîche ou surgelée (excluant la volaille),Meat,3
+Fresh or frozen beef,Bœuf frais ou surgelé,Fresh or frozen meat (excluding poultry),4
+Fresh or frozen beef hip cuts (202404=100),Cuisses de bœuf fraîches ou surgelées (202404=100),Fresh or frozen beef,5
+Fresh or frozen beef loin cuts (202404=100),Longes de bœuf fraîches ou surgelées (202404=100),Fresh or frozen beef,5
+Fresh or frozen beef rib cuts (202404=100),Côtes de bœuf fraîches ou surgelées (202404=100),Fresh or frozen beef,5
+Fresh or frozen beef chuck cuts (202404=100),Basses côtes de bœuf fraîches ou surgelées (202404=100),Fresh or frozen beef,5
+Fresh stewing beef (202404=100),Bœuf à bouillir frais (202404=100),Fresh or frozen beef,5
+Fresh or frozen ground beef (202404=100),Bœuf haché frais ou surgelé (202404=100),Fresh or frozen beef,5
+Other fresh or frozen beef (202404=100),Autre bœuf frais ou surgelé (202404=100),Fresh or frozen beef,5
+Fresh or frozen pork,Porc frais ou surgelé,Fresh or frozen meat (excluding poultry),4
+Fresh or frozen pork loin cuts (202404=100),Longes de porc fraîches ou surgelées (202404=100),Fresh or frozen pork,5
+Fresh or frozen pork shoulder cuts (202404=100),Épaules de porc fraîches ou surgelées (202404=100),Fresh or frozen pork,5
+Other fresh or frozen pork (202404=100),Autre porc frais ou surgelé (202404=100),Fresh or frozen pork,5
+Other fresh or frozen meat (excluding poultry),Autres viandes fraîches ou surgelées (excluant la volaille),Fresh or frozen meat (excluding poultry),4
+Fresh or frozen poultry,Volaille fraîche ou surgelée,Meat,3
+Fresh or frozen chicken,Poulet frais ou surgelé,Fresh or frozen poultry,4
+Fresh or frozen chicken breasts (202404=100),Poitrines de poulet fraîches ou surgelées (202404=100),Fresh or frozen chicken,5
+Fresh or frozen chicken thighs (202404=100),Cuisses de poulet fraîches ou surgelées (202404=100),Fresh or frozen chicken,5
+Fresh or frozen chicken drumsticks (202404=100),Pilons de poulet frais ou surgelés (202404=100),Fresh or frozen chicken,5
+Fresh or frozen whole chicken (202404=100),Poulet entier frais ou surgelé (202404=100),Fresh or frozen chicken,5
+Other fresh or frozen chicken (202404=100),Autre poulet frais ou surgelé (202404=100),Fresh or frozen chicken,5
+Other fresh or frozen poultry,Autres volailles fraîches ou surgelées,Fresh or frozen poultry,4
+Processed meat,Viande transformée,Meat,3
+Ham and bacon,Jambon et bacon,Processed meat,4
+Bacon (2013=100),Bacon (2013=100),Ham and bacon,5
+Ham excluding deli ham (2013=100),Jambon excluant le jambon de charcuterie (2013=100),Ham and bacon,5
+Other processed meat,Autres viandes transformées,Processed meat,4
+"Fish, seafood and other marine products","Poisson, fruits de mer et autres produits de la mer",Food purchased from stores,2
+Fish,Poisson,"Fish, seafood and other marine products",3
+Fresh or frozen fish (including portions and fish sticks),Poisson frais ou surgelé (y compris les portions et les bâtonnets),Fish,4
+Canned and other preserved fish,Poisson en conserve et autrement préservé,Fish,4
+Canned salmon (2013=100),Saumon en conserve (2013=100),Canned and other preserved fish,5
+Canned tuna (2013=100),Thon en conserve (2013=100),Canned and other preserved fish,5
+Seafood and other marine products,Fruits de mer et autres produits de la mer,"Fish, seafood and other marine products",3
+Shrimps and prawns (2013=100),Crevettes (2013=100),Seafood and other marine products,4
+Other shellfish (2013=100),Autres mollusques et crustacés (2013=100),Seafood and other marine products,4
+Dairy products and eggs,Produits laitiers et oeufs,Food purchased from stores,2
+Dairy products,Produits laitiers,Dairy products and eggs,3
+Fresh milk,Lait frais,Dairy products,4
+Whole milk (2013=100),Lait entier (2013=100),Fresh milk,5
+Low-fat milk (2013=100),Lait faible en matières grasses (2013=100),Fresh milk,5
+Butter,Beurre,Dairy products,4
+Cheese,Fromage,Dairy products,4
+Cheddar cheese (2013=100),Fromage cheddar (2013=100),Cheese,5
+Processed cheese (2013=100),Fromage fondu (2013=100),Cheese,5
+Unripened or fresh cheese (2013=100),Fromage non affiné ou fromage frais (2013=100),Cheese,5
+Mozzarella cheese (2013=100),Fromage mozzarella (2013=100),Cheese,5
+Ice cream and related products,Crème glacée et produits connexes,Dairy products,4
+Other dairy products,Autres produits laitiers,Dairy products,4
+Eggs,Oeufs,Dairy products and eggs,3
+Bakery and cereal products (excluding baby food),Produits de boulangerie et produits céréaliers (excluant les aliments pour bébés),Food purchased from stores,2
+Bakery products,Produits de boulangerie,Bakery and cereal products (excluding baby food),3
+"Bread, rolls and buns",Pain et petits pains,Bakery products,4
+Cookies and crackers,Biscuits et craquelins,Bakery products,4
+Crackers and crisp breads (2013=100),Craquelins et pains secs (2013=100),Cookies and crackers,5
+Cookies and sweet biscuits (2013=100),Biscuits et gâteaux secs (2013=100),Cookies and crackers,5
+Other bakery products,Autres produits de boulangerie,Bakery products,4
+Cereal products (excluding baby food),Produits céréaliers (excluant les aliments pour bébés),Bakery and cereal products (excluding baby food),3
+Rice and rice-based mixes,Riz et mélanges à base de riz,Cereal products (excluding baby food),4
+Breakfast cereal and other cereal products (excluding baby food),Céréales pour petit déjeuner et autres produits céréaliers (excluant les aliments pour bébés),Cereal products (excluding baby food),4
+Pasta products,Pâtes alimentaires,Cereal products (excluding baby food),4
+Dry or fresh pasta (2013=100),Pâtes alimentaires sèches ou fraîches (2013=100),Pasta products,5
+Pasta mixes (2013=100),Mélanges à base de pâtes alimentaires (2013=100),Pasta products,5
+Flour and flour-based mixes,Farine et mélanges à base de farine,Cereal products (excluding baby food),4
+"Fruit, fruit preparations and nuts","Fruits, préparations à base de fruits et noix",Food purchased from stores,2
+Fresh fruit,Fruits frais,"Fruit, fruit preparations and nuts",3
+Apples,Pommes,Fresh fruit,4
+Oranges,Oranges,Fresh fruit,4
+Bananas,Bananes,Fresh fruit,4
+Citrus (excluding oranges) (202304=100),Agrumes (excluant les oranges) (202304=100),Fresh fruit,4
+Grapes (202304=100),Raisins (202304=100),Fresh fruit,4
+Berries (including cherries) (202304=100),Baies (y compris les cerises) (202304=100),Fresh fruit,4
+Other fresh fruit,Autres fruits frais,Fresh fruit,4
+Preserved fruit and fruit preparations,Fruits en conserve et préparations à base de fruits,"Fruit, fruit preparations and nuts",3
+Fruit juices,Jus de fruits,Preserved fruit and fruit preparations,4
+Other preserved fruit and fruit preparations,Autres fruits en conserve et préparations à base de fruits,Preserved fruit and fruit preparations,4
+Canned fruit (2013=100),Fruits en conserve (2013=100),Other preserved fruit and fruit preparations,5
+"Jam, jelly and other preserves (2013=100)","Confiture, gelée et autres conserves (2013=100)",Other preserved fruit and fruit preparations,5
+Dried and dehydrated fruit (2013=100),Fruits secs et déshydratés (2013=100),Other preserved fruit and fruit preparations,5
+Frozen fruit (2013=100),Fruits surgelés (2013=100),Other preserved fruit and fruit preparations,5
+Nuts and seeds,Noix et graines,"Fruit, fruit preparations and nuts",3
+Vegetables and vegetable preparations,Légumes et préparations à base de légumes,Food purchased from stores,2
+Fresh vegetables,Légumes frais,Vegetables and vegetable preparations,3
+Potatoes,Pommes de terre,Fresh vegetables,4
+Tomatoes,Tomates,Fresh vegetables,4
+Lettuce,Laitue,Fresh vegetables,4
+Carrots (202304=100),Carottes (202304=100),Fresh vegetables,4
+Onions (202304=100),Oignons (202304=100),Fresh vegetables,4
+Peppers (202304=100),Poivrons (202304=100),Fresh vegetables,4
+Cucumber (202304=100),Concombre (202304=100),Fresh vegetables,4
+Mushrooms (202304=100),Champignons (202304=100),Fresh vegetables,4
+Other fresh vegetables,Autres légumes frais,Fresh vegetables,4
+Preserved vegetables and vegetable preparations,Légumes en conserve et préparations à base de légumes,Vegetables and vegetable preparations,3
+Frozen and dried vegetables,Légumes surgelés et séchés,Preserved vegetables and vegetable preparations,4
+Canned vegetables and other vegetable preparations,Légumes en conserve et autres préparations à base de légumes,Preserved vegetables and vegetable preparations,4
+Other food products and non-alcoholic beverages,Autres produits alimentaires et boissons non alcoolisées,Food purchased from stores,2
+Sugar and confectionery,Sucre et confiseries,Other food products and non-alcoholic beverages,3
+Sugar and syrup,Sucre et sirop,Sugar and confectionery,4
+Confectionery,Confiseries,Sugar and confectionery,4
+Edible fats and oils,Graisses et huiles comestibles,Other food products and non-alcoholic beverages,3
+Margarine,Margarine,Edible fats and oils,4
+Other edible fats and oils,Autres graisses et huiles comestibles,Edible fats and oils,4
+Coffee and tea,Café et thé,Other food products and non-alcoholic beverages,3
+Coffee,Café,Coffee and tea,4
+Roasted or ground coffee (2013=100),Café torréfié ou moulu (2013=100),Coffee,5
+Instant and other coffee (2013=100),Café soluble et autres cafés (2013=100),Coffee,5
+Tea,Thé,Coffee and tea,4
+"Condiments, spices and vinegars","Condiments, épices et vinaigres",Other food products and non-alcoholic beverages,3
+Fermented or pickled vegetables (2013=100),Légumes fermentés ou marinés (2013=100),"Condiments, spices and vinegars",4
+"Sauces, condiments and dips (2013=100)","Sauces, condiments et trempettes (2013=100)","Condiments, spices and vinegars",4
+"Herbs, spices and seasonings (2013=100)","Herbes, épices et assaisonnements (2013=100)","Condiments, spices and vinegars",4
+Other food preparations,Autres préparations alimentaires,Other food products and non-alcoholic beverages,3
+Soup,Soupe,Other food preparations,4
+Baby foods,Aliments pour bébés,Other food preparations,4
+Canned infant or junior foods (2013=100),Aliments en conserve pour bébés (2013=100),Baby foods,5
+Infant formula (2013=100),Préparation pour nourrissons (2013=100),Baby foods,5
+Frozen food preparations,Préparations alimentaires surgelées,Other food preparations,4
+All other food preparations,Toutes autres préparations alimentaires,Other food preparations,4
+Nut butter (2013=100),Beurre de noix (2013=100),All other food preparations,5
+Potato chips and other snack products n.e.c. (2013=100),Croustilles et autres produits de collation n.c.a. (2013=100),All other food preparations,5
+All other miscellaneous food preparations (2013=100),Toutes autres préparations alimentaires diverses (2013=100),All other food preparations,5
+Non-alcoholic beverages,Boissons non alcoolisées,Other food products and non-alcoholic beverages,3
+Food purchased from restaurants,Aliments achetés au restaurant,Food,1
+Food purchased from table-service restaurants,Aliments achetés dans un restaurant avec service aux tables,Food purchased from restaurants,2
+Food purchased from fast food and take-out restaurants,Aliments achetés dans un établissement de restauration rapide et au comptoir de mets à emporter,Food purchased from restaurants,2
+Food purchased from cafeterias and other restaurants,Aliments achetés de cafétérias et d'autres restaurants,Food purchased from restaurants,2

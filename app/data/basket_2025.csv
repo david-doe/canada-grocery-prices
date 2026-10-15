@@ -1,0 +1,12 @@
+series,series_fr,spend_share,exposure,upper_bound
+Other bakery products,Autres produits de boulangerie,0.03441860465116279,0.3286295204086605,True
+"Condiments, spices and vinegars","Condiments, épices et vinaigres",0.038139534883720926,0.210273536777088,True
+Non-alcoholic beverages,Boissons non alcoolisées,0.05023255813953489,0.1489045582836428,True
+Confectionery,Confiseries,0.035348837209302326,0.2043836569560909,False
+Roasted or ground coffee (2013=100),Café torréfié ou moulu (2013=100),0.01488372093023256,0.2831568087529594,False
+Other processed meat,Autres viandes transformées,0.05674418604651162,0.0607621682021723,False
+Soup,Soupe,0.008372093023255813,0.2992399398744969,False
+Rice and rice-based mixes,Riz et mélanges à base de riz,0.010232558139534885,0.1347115999797588,False
+Tomatoes,Tomates,0.008372093023255813,0.1220635944728091,False
+Dry or fresh pasta (2013=100),Pâtes alimentaires sèches ou fraîches (2013=100),0.010232558139534885,0.0950168809000841,False
+Other tariffed products,Autres produits taxés,0.1776744186046512,0.030735455727042383,False

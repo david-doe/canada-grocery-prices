@@ -1,0 +1,35 @@
+id,lang,question,gold_docs,keywords,answer_terms
+H01,en,What tariff rate did Canada impose in March 2025 on a broad range of goods from the United States?,R1|R2,25%,25%|25 %|25 per
+H02,en,By how much did prices of tariffed products rise relative to the control group by mid-June 2025?,R1|R2,6%,6%|6 %|6 per|six per
+H03,en,How many products did the Bank of Canada track daily in its 2025 online price study?,R1,"110,000","110,000|110 000|110000"
+H04,en,How many Canadian retailers were in the Bank of Canada online price sample?,R1,seven,seven|7 retailers|7 major
+H05,en,On what date were most Canadian counter-tariffs removed in 2025?,R1,September 1,September 1|1 September|Sept. 1
+H06,en,How much did the 2025 counter-tariffs add to consumer price inflation according to the Bank of Canada?,R1,0.3,0.3
+H07,en,"Did tariffed products with a visible ""Tariffed"" banner see different price increases?",R1|R2,banner|label,larger|faster|bigger
+H08,en,What share of the CPI basket did the items tariffed in 2018 represent?,R3,less than 1%,1%|1 %|one per
+H09,en,What tariff pass-through did the Bank of Canada assume in its April 2025 projection scenarios?,R3,75%,75%|75 %|75 per
+H10,en,How many representative products were tariffed in the Bank of Canada study of 2018 price microdata?,R3,37,37
+H11,en,What value of US imports did Canada's 2018 countermeasures target in total?,R10|R11,16.6,16.6
+H12,en,How many tariff items did the 2018 United States Surtax Order (Other Goods) cover?,R10,79 tariff items,79
+H13,en,What consumption price increases does the production network paper estimate for Canada's 2025 counter-tariffs?,R4,1.56,1.56|0.72
+H14,en,What share of the total price response to tariffs comes from intermediate input costs?,R4,two-thirds|two- thirds,two-thirds|two thirds|2/3|two- thirds
+H15,en,What is the data source of the Statistics Canada monthly average retail prices table?,S3,scanner,scanner|transaction|point-of-sale
+H16,en,How are prices of blocks of cheese of different sizes treated in the average prices table?,S3,cheese,500
+H17,en,Which retailers showed the largest tariff-induced price effects in 2025?,R2,appliance and electronics retailers,appliance|electronics
+H18,en,How many formal submissions were received during the 2018 comment period on the countermeasures?,R11,submissions,"1 108|1,108|1108"
+F01,fr,Quel taux de contre-tarif le Canada a-t-il imposé en mars 2025 sur les produits américains ?,R1|R2|SUM-FR|SUM-EN,25%|25 %,25%|25 %
+F02,fr,Pendant combien de temps les contre-tarifs canadiens de 2025 ont-ils été appliqués ?,R1|SUM-FR|SUM-EN,six months|mars à août,six mois|6 mois|mars à août|mars et août
+F03,fr,Combien de temps après la levée des contre-tarifs les prix relatifs sont-ils revenus à leur niveau d'avant ?,R1,three months,trois mois|3 mois
+F04,fr,Quelle part des dépenses des ménages en fromage le fromage américain représente-t-il ?,SUM-FR|SUM-EN|LOG-FR|LOG-EN,"2,4|2.4","2,4|2.4"
+F05,fr,Quel taux les tarifs « laitiers » de septembre 2026 appliquent-ils aux poudres de lait et au lactosérum ?,SUM-FR|SUM-EN|LOG-FR|LOG-EN,lactosérum|whey,50 %|50%
+F06,fr,Quelle était en 2025 la part médiane des produits américains taxés dans une série taxée de l'IPC ?,SUM-FR|SUM-EN|LOG-FR|LOG-EN,médiane|median,9 %|9%
+F07,fr,Combien les contre-tarifs de 2025 ont-ils coûté à un ménage moyen pour 100 dollars d'épicerie ?,SUM-FR|SUM-EN,100 dollars,"50 cents|0,50|0.50|50 ¢"
+F08,fr,Quelle transmission le projet estime-t-il pour 2025 une fois les cours mondiaux retirés ?,SUM-FR|SUM-EN|LOG-FR|LOG-EN,40 %|40%,40 %|40%
+F09,fr,Quelle hausse des prix alimentaires le projet prévoit-il pour 2026 ?,SUM-FR|SUM-EN|LOG-FR|LOG-EN,"3,5|3.5","3,5|3.5"
+F10,fr,Quelle table de Statistique Canada faut-il utiliser pour mesurer la variation pure des prix ?,S3|LOG-FR|LOG-EN,18-10-0004,18-10-0004|sous-indice
+F11,fr,Combien de produits la Banque du Canada a-t-elle suivis chaque jour dans son étude des prix en ligne de 2025 ?,R1,"110,000","110 000|110,000|110000"
+F12,fr,Quand les contre-mesures canadiennes de 2018 sur les autres marchandises sont-elles entrées en vigueur ?,R10|R9|R11,"July 1, 2018",1er juillet 2018|1 juillet 2018|juillet 2018
+F13,fr,"Selon les données de 2017, quelle valeur d'importations américaines la surtaxe abrogée en 2019 touchait-elle ?",R9,7.65,"7,65|7.65"
+F14,fr,Pourquoi le gouvernement a-t-il retiré les bateaux de la liste des surtaxes en 2019 ?,R11,boats,maritime|concessionnaire|entreprises
+F15,fr,Quelle méthode la Banque du Canada a-t-elle utilisée pour estimer l'effet des contre-tarifs de 2018 sur les prix ?,R3,synthetic control,contrôle synthétique|synthetic control|SCM
+F16,fr,Quelle part des produits de l'échantillon de la Banque du Canada était importée des États-Unis ?,R2,14%,14 %|14%

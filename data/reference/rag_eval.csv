@@ -1,0 +1,17 @@
+id,lang,question,gold_docs,keywords
+Q01,en,What pass-through did the Bank of Canada find for the 2025 counter-tariffs?,R1|R2,pass-through|pass through
+Q02,en,Which data did the Bank of Canada use to measure the effect of the 2025 counter-tariffs on prices?,R1|R2,online
+Q03,en,What did the 2018 tariff episode teach about pass-through to consumer prices in Canada?,R3,2018
+Q04,en,When was the United States Surtax Order (Other Goods) repealed?,R9,repeal
+Q05,en,What was the surtax rate of the 2018 order on other goods from the United States?,R10,10%
+Q06,en,Which goods were removed from the 2018 surtax list by the 2019 amendment?,R11,boat
+Q07,en,Why do monthly average retail prices not measure pure price change?,S3,price change|price changes
+Q08,en,How does Statistics Canada adjust the consumer price index for changes in product quality?,S10,quality
+Q09,en,How do tariffs on intermediate inputs spread to consumer prices through the production network?,R4,input|production network
+Q10,en,Why does the project require 36 months of data before a tariff starts?,LOG-EN|LOG-FR,36
+Q11,fr,Pourquoi le prix du café a-t-il augmenté en 2025 ?,LOG-FR|SUM-FR|LOG-EN|SUM-EN,arabica
+Q12,fr,Quelle transmission la Banque du Canada a-t-elle mesurée pour les contre-tarifs de 2025 ?,R1|R2|LOG-FR|SUM-FR|LOG-EN,25
+Q13,fr,Quand la surtaxe américaine de 2018 sur les autres marchandises a-t-elle été abrogée ?,R9|LOG-FR|LOG-EN,2019
+Q14,fr,Comment Statistique Canada tient-elle compte des changements de qualité des produits dans l'IPC ?,S10,quality|qualité
+Q15,fr,Pourquoi les prix moyens de détail ne mesurent-ils pas une variation pure des prix ?,S3|LOG-FR|LOG-EN,price change|variation pure
+Q16,fr,Comment les tarifs sur les intrants se transmettent-ils aux prix à la consommation ?,R4|LOG-FR|LOG-EN,input|intrant

@@ -1,0 +1,6 @@
+pandas>=2.2
+plotly>=5.20
+streamlit>=1.36
+anthropic>=1.14
+fastembed>=0.4
+google-genai>=1.0

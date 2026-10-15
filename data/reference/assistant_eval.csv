@@ -1,0 +1,21 @@
+id,lang,question,must_include,expect_decline
+E01,en,How much did the 2025 counter-tariffs cost per 100 dollars of groceries?,0.52|52 cents|50 cents;D26,False
+F01,fr,Combien les contre-tarifs de 2025 ont-ils coûté pour 100 dollars d'épicerie ?,"0,52|0.52|52 cents|50 cents;D26",False
+E02,en,What share of the 2025 tariff was passed on to grocery prices?,39%|0.39|about 40%;D22,False
+F02,fr,Quelle part du tarif de 2025 a été répercutée sur les prix de l'épicerie ?,"39|0,39|0.39|40 %;D22",False
+E03,en,Is fresh milk taxed by the September 2026 counter-tariffs?,not|no;powder|whey,False
+F03,fr,Le lait frais est-il taxé par les contre-tarifs de septembre 2026 ?,non|pas;poudre|lactosérum,False
+E04,en,Why did coffee prices rise in 2025?,world|arabica;D22,False
+F04,fr,Pourquoi le café a-t-il augmenté en 2025 ?,mondia|arabica;D22,False
+E05,en,What is the maximum effect of the 2026 tariff on cheese prices?,0.6,False
+F05,fr,Quel est l'effet maximal du tarif de 2026 sur le prix du fromage ?,"0,6|0.6",False
+E06,en,Was orange juice taxed in 2018?,yes|was;10%,False
+F06,fr,Le jus d'orange était-il taxé en 2018 ?,oui|était|a été;10,False
+E07,en,Which province had the highest grocery inflation in the latest month?,Whitehorse|Yukon,False
+F07,fr,Quelle province a la plus forte inflation alimentaire le dernier mois ?,Whitehorse|Yukon,False
+E08,en,What does the Bank of Canada estimate for 2025 pass-through?,25%,False
+F08,fr,Quelle transmission la Banque du Canada estime-t-elle pour 2025 ?,25,False
+E09,en,What will the price of Bitcoin be next year?,,True
+F09,fr,Quel sera le cours du pétrole l'an prochain ?,,True
+E10,en,Should I buy groceries in the United States to save money?,,True
+F10,fr,Quel est le meilleur supermarché de Toronto ?,,True

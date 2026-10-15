@@ -1,0 +1,64 @@
+event_id,start,end,series,series_fr,exposure,rate,note_en,note_fr
+CA2018,2018-07-01,2019-05-19,Other dairy products,Autres produits laitiers,direct,10%,"Yogurt, within- and over-access lines. Yogurt is a CPI representative product (S11) and Dairy products has only five sub-series, so yogurt is in this one by elimination; it is one of about 3 representative products of the series (S10), so the effect is diluted","Yogourt, lignes dans et hors contingent. Le yogourt est un produit représentatif de l'IPC (S11) et les produits laitiers n'ont que cinq sous-séries : le yogourt est donc dans celle-ci par élimination ; c'est l'un des quelque 3 produits représentatifs de la série (S10), l'effet est donc dilué"
+CA2018,2018-07-01,2019-05-19,Roasted or ground coffee (2013=100),Café torréfié ou moulu (2013=100),direct,10%,"Roasted coffee, not decaffeinated","Café torréfié, non décaféiné"
+CA2018,2018-07-01,2019-05-19,Confectionery,Confiseries,direct,10%,"Toffee, liquorice and other sugar confectionery; chocolate bars","Caramels, réglisse et autres confiseries ; barres de chocolat"
+CA2018,2018-07-01,2019-05-19,Other bakery products,Autres produits de boulangerie,direct,10%,"Pizza, quiche, pastries, pies, puddings and cakes (1905.90.51)","Pizza, quiche, pâtisseries, tartes, poudings et gâteaux (1905.90.51)"
+CA2018,2018-07-01,2019-05-19,Frozen food preparations,Préparations alimentaires surgelées,partial,10%,Frozen pizza and prepared meals of chicken or beef: small share of the series,Pizzas surgelées et plats préparés de poulet ou de bœuf : petite part de la série
+CA2018,2018-07-01,2019-05-19,Other processed meat,Autres viandes transformées,partial,10%,Prepared chicken mixtures and prepared beef: small share of the series,Préparations de poulet et de bœuf : petite part de la série
+CA2018,2018-07-01,2019-05-19,Sugar and syrup,Sucre et sirop,partial,10%,"Maple sugar and syrup, mostly supplied domestically","Sucre et sirop d'érable, surtout produits au Canada"
+CA2018,2018-07-01,2019-05-19,Fermented or pickled vegetables (2013=100),Légumes fermentés ou marinés (2013=100),direct,10%,Pickles (cucumbers and gherkins),Cornichons
+CA2018,2018-07-01,2019-05-19,"Jam, jelly and other preserves (2013=100)","Confiture, gelée et autres conserves (2013=100)",direct,10%,Strawberry jam (2007.99.10),Confiture de fraises (2007.99.10)
+CA2018,2018-07-01,2019-05-19,Fruit juices,Jus de fruits,direct,10%,"Orange juice, not frozen","Jus d'orange, non congelé"
+CA2018,2018-07-01,2019-05-19,"Sauces, condiments and dips (2013=100)","Sauces, condiments et trempettes (2013=100)",direct,10%,"Soy sauce, ketchup, mayonnaise, salad dressing, other sauces","Sauce soya, ketchup, mayonnaise, vinaigrette, autres sauces"
+CA2018,2018-07-01,2019-05-19,"Herbs, spices and seasonings (2013=100)","Herbes, épices et assaisonnements (2013=100)",partial,10%,Mixed condiments and mixed seasonings (2103.90.20),Condiments et assaisonnements composés (2103.90.20)
+CA2018,2018-07-01,2019-05-19,Soup,Soupe,direct,10%,Soups and broths,Soupes et bouillons
+CA2018,2018-07-01,2019-05-19,Non-alcoholic beverages,Boissons non alcoolisées,direct,10%,"Sweetened or flavoured waters, including soft drinks","Eaux sucrées ou aromatisées, dont les boissons gazeuses"
+CA2025,2025-03-04,2025-09-01,Fresh or frozen chicken,Poulet frais ou surgelé,direct,25%,Within-access lines tariffed for whole birds and frozen cuts; fresh cuts over-access only,Lignes dans le contingent visées pour les poulets entiers et les découpes surgelées ; découpes fraîches hors contingent seulement
+CA2025,2025-03-04,2025-09-01,Other fresh or frozen poultry,Autres volailles fraîches ou surgelées,direct,25%,"Turkey, within- and over-access lines","Dinde, lignes dans et hors contingent"
+CA2025,2025-03-04,2025-09-01,Other processed meat,Autres viandes transformées,direct,25%,Sausages and poultry preparations,Saucisses et préparations de volaille
+CA2025,2025-03-04,2025-09-01,Frozen food preparations,Préparations alimentaires surgelées,partial,25%,Prepared poultry meals and frozen pizza: small share of the series,Plats préparés de volaille et pizzas surgelées : petite part de la série
+CA2025,2025-03-04,2025-09-01,Fresh milk,Lait frais,over_quota_only,25%,"Only over-access lines, already taxed about 241% (S9): expected effect near zero","Seulement les lignes hors contingent, déjà taxées à environ 241 % (S9) : effet attendu proche de zéro"
+CA2025,2025-03-04,2025-09-01,Butter,Beurre,over_quota_only,25%,"Only over-access lines, already taxed about 298.5% (S9)","Seulement les lignes hors contingent, déjà taxées à environ 298,5 % (S9)"
+CA2025,2025-03-04,2025-09-01,Cheese,Fromage,over_quota_only,25%,"Only over-access lines, already taxed about 245.5% (S9)","Seulement les lignes hors contingent, déjà taxées à environ 245,5 % (S9)"
+CA2025,2025-03-04,2025-09-01,Ice cream and related products,Crème glacée et produits connexes,over_quota_only,25%,Only the over-access line,Seulement la ligne hors contingent
+CA2025,2025-03-04,2025-09-01,Eggs,Oeufs,over_quota_only,25%,Shell eggs: over-access line only; within-access lines are egg products (0408) and other eggs (0407.90),Œufs en coquille : ligne hors contingent seulement ; les lignes dans le contingent visent les ovoproduits (0408) et les autres œufs (0407.90)
+CA2025,2025-03-04,2025-09-01,Other dairy products,Autres produits laitiers,partial,25%,Flavoured yogurt line 0403.20.10 has no quota; other yogurt and dairy spreads over-access only,La ligne de yogourt aromatisé 0403.20.10 n'a pas de contingent ; les autres yogourts et tartinades laitières sont hors contingent seulement
+CA2025,2025-03-04,2025-09-01,Tomatoes,Tomates,direct,25%,Fresh tomatoes,Tomates fraîches
+CA2025,2025-03-04,2025-09-01,Other fresh vegetables,Autres légumes frais,partial,25%,Beans only,Haricots seulement
+CA2025,2025-03-04,2025-09-01,Oranges,Oranges,direct,25%,Fresh oranges,Oranges fraîches
+CA2025,2025-03-04,2025-09-01,Citrus (excluding oranges) (202304=100),Agrumes (excluant les oranges) (202304=100),direct,25%,"Mandarins, clementines, grapefruit, lemons, limes; series too short for 2025 (D17)","Mandarines, clémentines, pamplemousses, citrons, limes ; série trop courte pour 2025 (D17)"
+CA2025,2025-03-04,2025-09-01,Other fresh fruit,Autres fruits frais,partial,25%,Watermelons and peaches,Melons d'eau et pêches
+CA2025,2025-03-04,2025-09-01,Frozen fruit (2013=100),Fruits surgelés (2013=100),direct,25%,"Frozen raspberries, blackberries and other berries","Framboises, mûres et autres petits fruits surgelés"
+CA2025,2025-03-04,2025-09-01,Nuts and seeds,Noix et graines,partial,25%,Other nuts only,Autres noix seulement
+CA2025,2025-03-04,2025-09-01,Roasted or ground coffee (2013=100),Café torréfié ou moulu (2013=100),direct,25%,Roasted coffee,Café torréfié
+CA2025,2025-03-04,2025-09-01,Instant and other coffee (2013=100),Café soluble et autres cafés (2013=100),partial,25%,Instant coffee (heading 21.01) is not on the list,Le café instantané (position 21.01) n'est pas sur la liste
+CA2025,2025-03-04,2025-09-01,Tea,Thé,direct,25%,"Green and black tea, maté","Thé vert et noir, maté"
+CA2025,2025-03-04,2025-09-01,"Condiments, spices and vinegars","Condiments, épices et vinaigres",direct,25%,"Spices, pickles, sauces, ketchup, mustard, mayonnaise; parent used because the detailed series stop in 2021-05","Épices, cornichons, sauces, ketchup, moutarde, mayonnaise ; l'agrégat est utilisé car les séries détaillées s'arrêtent en 2021-05"
+CA2025,2025-03-04,2025-09-01,Flour and flour-based mixes,Farine et mélanges à base de farine,direct,25%,"Wheat flour, within- and over-access lines","Farine de blé, lignes dans et hors contingent"
+CA2025,2025-03-04,2025-09-01,Rice and rice-based mixes,Riz et mélanges à base de riz,direct,25%,Brown and milled rice,Riz brun et riz blanchi
+CA2025,2025-03-04,2025-09-01,Breakfast cereal and other cereal products (excluding baby food),Céréales pour petit déjeuner et autres produits céréaliers (excluant les aliments pour bébés),input,25%,"Wheat, rye, barley and oats as ingredients","Blé, seigle, orge et avoine comme ingrédients"
+CA2025,2025-03-04,2025-09-01,"Bread, rolls and buns",Pain et petits pains,input,25%,Wheat and flour as ingredients,Blé et farine comme ingrédients
+CA2025,2025-03-04,2025-09-01,Other edible fats and oils,Autres graisses et huiles comestibles,direct,25%,"Peanut, palm, sunflower and canola oils","Huiles d'arachide, de palme, de tournesol et de canola"
+CA2025,2025-03-04,2025-09-01,Margarine,Margarine,direct,25%,Margarine and butter substitutes,Margarine et substituts du beurre
+CA2025,2025-03-04,2025-09-01,Shrimps and prawns (2013=100),Crevettes (2013=100),direct,25%,"Prepared shrimps, not in airtight containers","Crevettes préparées, hors contenants hermétiques"
+CA2025,2025-03-04,2025-09-01,Sugar and syrup,Sucre et sirop,direct,25%,"Sugar and maple syrup; whether honey is priced in this series is not published (S10, S11), which does not change the role","Sucre et sirop d'érable ; StatCan ne publie pas si le miel est dans cette série (S10, S11), ce qui ne change pas le rôle"
+CA2025,2025-03-04,2025-09-01,Confectionery,Confiseries,direct,25%,"Chewing gum, candy, chocolate","Gomme à mâcher, bonbons, chocolat"
+CA2025,2025-03-04,2025-09-01,Dry or fresh pasta (2013=100),Pâtes alimentaires sèches ou fraîches (2013=100),direct,25%,Uncooked pasta,Pâtes alimentaires non cuites
+CA2025,2025-03-04,2025-09-01,Pasta mixes (2013=100),Mélanges à base de pâtes alimentaires (2013=100),partial,25%,Other pasta preparations,Autres préparations de pâtes
+CA2025,2025-03-04,2025-09-01,Other bakery products,Autres produits de boulangerie,direct,25%,"Pizza, quiche, pastries, pies and cakes (1905.90.51)","Pizza, quiche, pâtisseries, tartes et gâteaux (1905.90.51)"
+CA2025,2025-03-04,2025-09-01,Nut butter (2013=100),Beurre de noix (2013=100),direct,25%,Peanuts and peanut butter,Arachides et beurre d'arachide
+CA2025,2025-03-04,2025-09-01,Fruit juices,Jus de fruits,direct,25%,"Orange juice, not frozen","Jus d'orange, non congelé"
+CA2025,2025-03-04,2025-09-01,Soup,Soupe,direct,25%,Soups and broths,Soupes et bouillons
+CA2025,2025-03-04,2025-09-01,All other miscellaneous food preparations (2013=100),Toutes autres préparations alimentaires diverses (2013=100),partial,25%,"Food preparations n.e.s., mostly over-access dairy lines","Préparations alimentaires n.d.a., surtout des lignes laitières hors contingent"
+CA2025,2025-03-04,2025-09-01,Non-alcoholic beverages,Boissons non alcoolisées,direct,25%,Soft drinks and milk-based beverages,Boissons gazeuses et boissons à base de lait
+CA2026,2026-09-08,,Cheese,Fromage,direct,25%,"All cheese lines, within- and over-access, 25%","Toutes les lignes de fromage, dans et hors contingent, 25 %"
+CA2026,2026-09-08,,Cheddar cheese (2013=100),Fromage cheddar (2013=100),direct,25%,Cheddar and Cheddar types,Cheddar et types cheddar
+CA2026,2026-09-08,,Processed cheese (2013=100),Fromage fondu (2013=100),direct,25%,Processed cheese,Fromage fondu
+CA2026,2026-09-08,,Unripened or fresh cheese (2013=100),Fromage non affiné ou fromage frais (2013=100),direct,25%,Fresh (unripened) cheese and curd,Fromage frais (non affiné) et caillé
+CA2026,2026-09-08,,Mozzarella cheese (2013=100),Fromage mozzarella (2013=100),direct,25%,Mozzarella and Mozzarella types,Mozzarella et types mozzarella
+CA2026,2026-09-08,,Other dairy products,Autres produits laitiers,input,50%,Milk powders and whey (50%) are ingredients of yogurt and other dairy products,Les poudres de lait et le lactosérum (50 %) entrent dans le yogourt et les autres produits laitiers
+CA2026,2026-09-08,,Ice cream and related products,Crème glacée et produits connexes,input,50%,Milk powders and whey as ingredients,Poudres de lait et lactosérum comme ingrédients
+CA2026,2026-09-08,,Sugar and syrup,Sucre et sirop,partial,50%,"Honey (classification not published) and molasses (an input), 50%: excluded either way","Miel (classement non publié) et mélasse (un intrant), 50 % : exclue dans tous les cas"
+CA2026,2026-09-08,,"Bread, rolls and buns",Pain et petits pains,input,50%,"Bakery mixes and doughs, 50%","Mélanges et pâtes pour boulangerie, 50 %"
+CA2026,2026-09-08,,Other bakery products,Autres produits de boulangerie,input,50%,"Bakery mixes and doughs, 50%","Mélanges et pâtes pour boulangerie, 50 %"
+CA2026,2026-09-08,,Cookies and crackers,Biscuits et craquelins,input,50%,"Bakery mixes and doughs, 50%","Mélanges et pâtes pour boulangerie, 50 %"

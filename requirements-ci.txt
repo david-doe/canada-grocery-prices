@@ -1,0 +1,11 @@
+# Light dependencies for the automated checks (no raw data, no language models needed)
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+statsmodels>=0.14
+scikit-learn>=1.4
+lightgbm>=4.3
+duckdb>=1.1
+anthropic>=1.14
+requests>=2.32
+pytest>=8

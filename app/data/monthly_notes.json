@@ -1,0 +1,52 @@
+{
+ "month": "2026-08",
+ "previous_month": "2026-07",
+ "stores_yoy": 2.8,
+ "stores_yoy_prev": 3.1,
+ "food_yoy": 2.8,
+ "restaurants_yoy": 3.1,
+ "top_up": [
+  {
+   "en": "Fresh or frozen beef chuck cuts",
+   "fr": "Basses côtes de bœuf fraîches ou surgelées",
+   "yoy": 22.1
+  },
+  {
+   "en": "Grapes",
+   "fr": "Raisins",
+   "yoy": 15.5
+  },
+  {
+   "en": "Bananas",
+   "fr": "Bananes",
+   "yoy": 12.8
+  }
+ ],
+ "top_down": [
+  {
+   "en": "Peppers",
+   "fr": "Poivrons",
+   "yoy": -13.2
+  },
+  {
+   "en": "Bacon",
+   "fr": "Bacon",
+   "yoy": -10.0
+  },
+  {
+   "en": "Dry or fresh pasta",
+   "fr": "Pâtes alimentaires sèches ou fraîches",
+   "yoy": -7.5
+  }
+ ],
+ "province_high": {
+  "geo": "Whitehorse, Yukon",
+  "yoy": 3.6
+ },
+ "province_low": {
+  "geo": "Prince Edward Island",
+  "yoy": -0.7
+ },
+ "forecast_12m": 2.9,
+ "forecast_month": "2027-08"
+}

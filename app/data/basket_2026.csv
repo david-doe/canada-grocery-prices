@@ -1,0 +1,5 @@
+group,group_fr,hs6,us_mcad,share,rate,upper_bound
+Cheese,Fromage,0406.10;0406.20;0406.30;0406.40;0406.90,184.93503910729757,0.0011521858044913499,0.25,False
+"Bakery mixes and doughs (bread, cakes, cookies)","Mélanges et pâtes de boulangerie (pain, gâteaux, biscuits)",1901.20,340.3610406140971,0.0021205238406440618,0.5,True
+"Milk powders and whey (yogurt, ice cream)","Poudres de lait et lactosérum (yogourt, crème glacée)",0402.10;0402.21;0402.91;0402.99;0404.10;0404.90,136.25794356758593,0.0008489168363420261,0.5,True
+Honey and molasses,Miel et mélasse,0409.00;1703.10;1703.90,19.485884514554787,0.00012140132899640384,0.5,True
