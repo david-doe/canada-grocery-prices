@@ -20567,3 +20567,127 @@ month,series,base,value
 2026-08,Food purchased from table-service restaurants,2002=100,206.5
 2026-08,Food purchased from fast food and take-out restaurants,2002=100,211.0
 2026-08,Food purchased from cafeterias and other restaurants,2002=100,208.3
+2026-09,Food,2002=100,201.8
+2026-09,Food purchased from stores,2002=100,198.3
+2026-09,Meat,2002=100,235.1
+2026-09,Fresh or frozen meat (excluding poultry),2002=100,276.5
+2026-09,Fresh or frozen beef,2002=100,328.9
+2026-09,Fresh or frozen beef hip cuts (202404=100),202404=100,128.9
+2026-09,Fresh or frozen beef loin cuts (202404=100),202404=100,130.6
+2026-09,Fresh or frozen beef rib cuts (202404=100),202404=100,129.4
+2026-09,Fresh or frozen beef chuck cuts (202404=100),202404=100,131.8
+2026-09,Fresh stewing beef (202404=100),202404=100,127.2
+2026-09,Fresh or frozen ground beef (202404=100),202404=100,143.5
+2026-09,Other fresh or frozen beef (202404=100),202404=100,134.5
+2026-09,Fresh or frozen pork,2002=100,184.8
+2026-09,Fresh or frozen pork loin cuts (202404=100),202404=100,112.5
+2026-09,Fresh or frozen pork shoulder cuts (202404=100),202404=100,110.5
+2026-09,Other fresh or frozen pork (202404=100),202404=100,111.4
+2026-09,Other fresh or frozen meat (excluding poultry),2002=100,222.6
+2026-09,Fresh or frozen poultry,2002=100,217.8
+2026-09,Fresh or frozen chicken,2002=100,227.4
+2026-09,Fresh or frozen chicken breasts (202404=100),202404=100,103.8
+2026-09,Fresh or frozen chicken thighs (202404=100),202404=100,104.0
+2026-09,Fresh or frozen chicken drumsticks (202404=100),202404=100,104.4
+2026-09,Fresh or frozen whole chicken (202404=100),202404=100,113.6
+2026-09,Other fresh or frozen chicken (202404=100),202404=100,104.7
+2026-09,Other fresh or frozen poultry,2002=100,167.6
+2026-09,Processed meat,2002=100,205.7
+2026-09,Ham and bacon,2002=100,185.0
+2026-09,Bacon (2013=100),2013=100,162.7
+2026-09,Ham excluding deli ham (2013=100),2013=100,156.9
+2026-09,Other processed meat,2002=100,216.3
+2026-09,"Fish, seafood and other marine products",2002=100,171.9
+2026-09,Fish,2002=100,193.1
+2026-09,Fresh or frozen fish (including portions and fish sticks),2002=100,187.5
+2026-09,Canned and other preserved fish,2002=100,204.6
+2026-09,Canned salmon (2013=100),2013=100,193.8
+2026-09,Canned tuna (2013=100),2013=100,136.3
+2026-09,Seafood and other marine products,2002=100,126.5
+2026-09,Shrimps and prawns (2013=100),2013=100,129.9
+2026-09,Other shellfish (2013=100),2013=100,130.0
+2026-09,Dairy products and eggs,2002=100,179.5
+2026-09,Dairy products,2002=100,175.6
+2026-09,Fresh milk,2002=100,186.1
+2026-09,Whole milk (2013=100),2013=100,135.3
+2026-09,Low-fat milk (2013=100),2013=100,135.0
+2026-09,Butter,2002=100,201.8
+2026-09,Cheese,2002=100,160.0
+2026-09,Cheddar cheese (2013=100),2013=100,111.5
+2026-09,Processed cheese (2013=100),2013=100,125.4
+2026-09,Unripened or fresh cheese (2013=100),2013=100,155.7
+2026-09,Mozzarella cheese (2013=100),2013=100,113.6
+2026-09,Ice cream and related products,2002=100,151.2
+2026-09,Other dairy products,2002=100,188.5
+2026-09,Eggs,2002=100,222.8
+2026-09,Bakery and cereal products (excluding baby food),2002=100,200.5
+2026-09,Bakery products,2002=100,215.2
+2026-09,"Bread, rolls and buns",2002=100,222.4
+2026-09,Cookies and crackers,2002=100,203.7
+2026-09,Other bakery products,2002=100,206.2
+2026-09,Cereal products (excluding baby food),2002=100,174.9
+2026-09,Rice and rice-based mixes,2002=100,181.1
+2026-09,Breakfast cereal and other cereal products (excluding baby food),2002=100,157.0
+2026-09,Pasta products,2002=100,208.2
+2026-09,Dry or fresh pasta (2013=100),2013=100,129.7
+2026-09,Pasta mixes (2013=100),2013=100,169.1
+2026-09,Flour and flour-based mixes,2002=100,186.0
+2026-09,"Fruit, fruit preparations and nuts",2002=100,179.6
+2026-09,Fresh fruit,2002=100,169.6
+2026-09,Apples,2002=100,223.4
+2026-09,Oranges,2002=100,184.1
+2026-09,Bananas,2002=100,156.7
+2026-09,Citrus (excluding oranges) (202304=100),202304=100,98.2
+2026-09,Grapes (202304=100),202304=100,113.8
+2026-09,Berries (including cherries) (202304=100),202304=100,92.0
+2026-09,Other fresh fruit,2002=100,160.9
+2026-09,Preserved fruit and fruit preparations,2002=100,194.4
+2026-09,Fruit juices,2002=100,203.6
+2026-09,Other preserved fruit and fruit preparations,2002=100,174.9
+2026-09,Canned fruit (2013=100),2013=100,155.8
+2026-09,"Jam, jelly and other preserves (2013=100)",2013=100,161.6
+2026-09,Dried and dehydrated fruit (2013=100),2013=100,162.8
+2026-09,Frozen fruit (2013=100),2013=100,115.0
+2026-09,Nuts and seeds,2002=100,196.6
+2026-09,Vegetables and vegetable preparations,2002=100,189.9
+2026-09,Fresh vegetables,2002=100,185.8
+2026-09,Potatoes,2002=100,152.7
+2026-09,Tomatoes,2002=100,154.0
+2026-09,Lettuce,2002=100,178.2
+2026-09,Carrots (202304=100),202304=100,106.3
+2026-09,Onions (202304=100),202304=100,124.6
+2026-09,Peppers (202304=100),202304=100,76.8
+2026-09,Cucumber (202304=100),202304=100,90.0
+2026-09,Mushrooms (202304=100),202304=100,102.3
+2026-09,Other fresh vegetables,2002=100,235.1
+2026-09,Preserved vegetables and vegetable preparations,2002=100,199.4
+2026-09,Frozen and dried vegetables,2002=100,206.6
+2026-09,Canned vegetables and other vegetable preparations,2002=100,200.1
+2026-09,Other food products and non-alcoholic beverages,2002=100,194.2
+2026-09,Sugar and confectionery,2002=100,189.9
+2026-09,Sugar and syrup,2002=100,151.9
+2026-09,Confectionery,2002=100,198.3
+2026-09,Edible fats and oils,2002=100,240.4
+2026-09,Margarine,2002=100,257.4
+2026-09,Other edible fats and oils,2002=100,219.8
+2026-09,Coffee and tea,2002=100,204.4
+2026-09,Coffee,2002=100,215.3
+2026-09,Roasted or ground coffee (2013=100),2013=100,174.4
+2026-09,Instant and other coffee (2013=100),2013=100,129.6
+2026-09,Tea,2002=100,161.7
+2026-09,"Condiments, spices and vinegars",2002=100,172.7
+2026-09,Other food preparations,2002=100,198.2
+2026-09,Soup,2002=100,184.4
+2026-09,Baby foods,2002=100,181.3
+2026-09,Canned infant or junior foods (2013=100),2013=100,136.1
+2026-09,Infant formula (2013=100),2013=100,147.2
+2026-09,Frozen food preparations,2002=100,169.7
+2026-09,All other food preparations,2002=100,219.0
+2026-09,Nut butter (2013=100),2013=100,106.1
+2026-09,Potato chips and other snack products n.e.c. (2013=100),2013=100,129.9
+2026-09,All other miscellaneous food preparations (2013=100),2013=100,198.1
+2026-09,Non-alcoholic beverages,2002=100,184.6
+2026-09,Food purchased from restaurants,2002=100,208.6
+2026-09,Food purchased from table-service restaurants,2002=100,207.0
+2026-09,Food purchased from fast food and take-out restaurants,2002=100,211.5
+2026-09,Food purchased from cafeterias and other restaurants,2002=100,208.9

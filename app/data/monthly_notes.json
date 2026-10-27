@@ -1,52 +1,52 @@
 {
- "month": "2026-08",
- "previous_month": "2026-07",
- "stores_yoy": 2.8,
- "stores_yoy_prev": 3.1,
- "food_yoy": 2.8,
+ "month": "2026-09",
+ "previous_month": "2026-08",
+ "stores_yoy": 1.7,
+ "stores_yoy_prev": 2.8,
+ "food_yoy": 2.2,
  "restaurants_yoy": 3.1,
  "top_up": [
   {
    "en": "Fresh or frozen beef chuck cuts",
    "fr": "Basses côtes de bœuf fraîches ou surgelées",
-   "yoy": 22.1
+   "yoy": 19.5
+  },
+  {
+   "en": "Berries (including cherries)",
+   "fr": "Baies (y compris les cerises)",
+   "yoy": 16.6
   },
   {
    "en": "Grapes",
    "fr": "Raisins",
-   "yoy": 15.5
-  },
-  {
-   "en": "Bananas",
-   "fr": "Bananes",
-   "yoy": 12.8
+   "yoy": 13.1
   }
  ],
  "top_down": [
   {
+   "en": "Cucumber",
+   "fr": "Concombre",
+   "yoy": -12.6
+  },
+  {
    "en": "Peppers",
    "fr": "Poivrons",
-   "yoy": -13.2
+   "yoy": -11.7
   },
   {
-   "en": "Bacon",
-   "fr": "Bacon",
-   "yoy": -10.0
-  },
-  {
-   "en": "Dry or fresh pasta",
-   "fr": "Pâtes alimentaires sèches ou fraîches",
-   "yoy": -7.5
+   "en": "Soup",
+   "fr": "Soupe",
+   "yoy": -9.6
   }
  ],
  "province_high": {
   "geo": "Whitehorse, Yukon",
-  "yoy": 3.6
+  "yoy": 3.5
  },
  "province_low": {
   "geo": "Prince Edward Island",
-  "yoy": -0.7
+  "yoy": -0.4
  },
- "forecast_12m": 2.9,
- "forecast_month": "2027-08"
+ "forecast_12m": 2.2,
+ "forecast_month": "2027-09"
 }
