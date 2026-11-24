@@ -12759,3 +12759,113 @@ month,item,item_fr,price,after_2024_break
 2026-08,"Toothpaste, 100 millilitres","Dentifrice, 100 millilitres",4.5,True
 2026-08,"Shampoo, 400 millilitres","Shampooing, 400 millilitres",7.33,True
 2026-08,"Laundry detergent, 4.43 litres","Détergent à lessive, 4,43 litres",13.61,True
+2026-09,"Beef stewing cuts, per kilogram","Boeuf à ragoût, par kilogramme",24.65,True
+2026-09,"Beef striploin cuts, per kilogram","Contrefilets de boeuf, par kilogramme",35.74,True
+2026-09,"Beef top sirloin cuts, per kilogram","Hauts de surlonge de boeuf, par kilogramme",32.1,True
+2026-09,"Beef rib cuts, per kilogram","Côtes de boeuf, par kilogramme",34.5,True
+2026-09,"Ground beef, per kilogram","Boeuf haché, par kilogramme",16.92,True
+2026-09,"Pork loin cuts, per kilogram","Longes de porc, par kilogramme",8.71,True
+2026-09,"Pork rib cuts, per kilogram","Côtes de porc, par kilogramme",9.12,True
+2026-09,"Pork shoulder cuts, per kilogram","Épaule de porc, par kilogramme",7.05,True
+2026-09,"Whole chicken, per kilogram","Poulet entier, par kilogramme",7.34,True
+2026-09,"Chicken breasts, per kilogram","Poitrines de poulet, par kilogramme",14.48,True
+2026-09,"Chicken thigh, per kilogram","Hauts de cuisse de poulet, par kilogramme",13.36,True
+2026-09,"Chicken drumsticks, per kilogram","Pilons de poulet, par kilogramme",8.07,True
+2026-09,"Bacon, 500 grams","Bacon, 500 grammes",6.71,True
+2026-09,"Wieners, 400 grams","Saucisses fumées, 400 grammes",4.2,True
+2026-09,"Salmon, per kilogram","Saumon, par kilogramme",28.22,True
+2026-09,"Shrimp, 300 grams","Crevette, 300 grammes",7.39,True
+2026-09,"Canned salmon, 213 grams","Saumon en conserve, 213 grammes",5.76,True
+2026-09,"Canned tuna, 170 grams","Thon en conserve, 170 grammes",1.69,True
+2026-09,"Meatless burgers, 226 grams","Burgers sans viande, 226 grammes",7.05,True
+2026-09,"Milk, 1 litre","Lait, 1 litre",3.22,True
+2026-09,"Milk, 2 litres","Lait, 2 litres",5.5,True
+2026-09,"Milk, 4 litres","Lait, 4 litres",6.99,True
+2026-09,"Soy milk, 1.89 litres","Lait de soja, 1,89 litres",4.57,True
+2026-09,"Nut milk, 1.89 litres","Lait de noix, 1,89 litres",4.42,True
+2026-09,"Cream, 1 litre","Crème, 1 litre",4.8,True
+2026-09,"Butter, 454 grams","Beurre, 454 grammes",5.58,True
+2026-09,"Margarine, 907 grams","Margarine, 907 grammes",5.88,True
+2026-09,"Block cheese, 500 grams","Fromage en bloc, 500  grammes",6.98,True
+2026-09,"Yogurt, 500 grams","Yogourt, 500 grammes",3.88,True
+2026-09,"Eggs, 1 dozen","Oeufs, 1 douzaine",4.83,True
+2026-09,"Apples, per kilogram","Pommes, par kilogramme",4.79,True
+2026-09,"Oranges, per kilogram","Oranges, par kilogramme",4.53,True
+2026-09,"Oranges, 1.36 kilograms","Oranges, 1,36 kilogrammes",5.55,True
+2026-09,"Bananas, per kilogram","Bananes, par kilogramme",1.88,True
+2026-09,"Pears, per kilogram","Poires, par kilogramme",5.57,True
+2026-09,"Lemons, unit","Citrons, unité",1.04,True
+2026-09,"Limes, unit","Limes, unité",0.77,True
+2026-09,"Grapes, per kilogram","Raisins, par kilogramme",6.57,True
+2026-09,"Cantaloupe, unit","Cantaloup, unité",2.97,True
+2026-09,"Strawberries, 454 grams","Fraises, 454 grammes",5.19,True
+2026-09,"Avocado, unit","Avocat, unité",1.67,True
+2026-09,"Potatoes, 4.54 kilograms","Pommes de terre, 4,54 kilogrammes",4.05,True
+2026-09,"Potatoes, per kilogram","Pommes de terre, par kilogramme",5.12,True
+2026-09,"Sweet potatoes, per kilogram","Patates douces, par kilogramme",4.24,True
+2026-09,"Tomatoes, per kilogram","Tomates, par kilogramme",4.71,True
+2026-09,"Cabbage, per kilogram","Chou, par kilogramme",2.33,True
+2026-09,"Carrots, 1.36 kilograms","Carottes, 1,36 kilogrammes",3.54,True
+2026-09,"Onions, per kilogram","Oignons, par kilogramme",5.49,True
+2026-09,"Onions, 1.36 kilograms","Oignons, 1,36 kilogrammes",4.56,True
+2026-09,"Celery, unit","Céleri, unité",2.44,True
+2026-09,"Cucumber, unit","Concombre, unité",1.46,True
+2026-09,"Mushrooms, 227 grams","Champignons, 227 grammes",2.26,True
+2026-09,"Iceberg lettuce, unit","Laitue iceberg, unité",2.74,True
+2026-09,"Romaine lettuce, unit","Laitue romaine, unité",3.13,True
+2026-09,"Broccoli, unit","Brocoli, unité",2.25,True
+2026-09,"Peppers, per kilogram","Poivrons, par kilogramme",5.93,True
+2026-09,"Squash, per kilogram","Courge, par kilogramme",3.15,True
+2026-09,"Salad greens, 142 grams","Légumes-feuilles, 142 grammes",4.48,True
+2026-09,"Frozen french fried potatoes, 750 grams","Pommes de terre frites surgelées, 750 grammes",3.25,True
+2026-09,"Frozen green beans, 750 grams","Haricots verts surgelés, 750 grammes",4.46,True
+2026-09,"Frozen broccoli, 500 grams","Brocoli surgelé, 500 grammes",3.93,True
+2026-09,"Frozen corn, 750 grams ","Maïs surgelé, 750 grammes",3.67,True
+2026-09,"Frozen mixed vegetables, 750 grams ","Mélange de légumes surgelé, 750 grammes",4.22,True
+2026-09,"Frozen peas, 750 grams","Petits pois surgelés, 750 grammes",3.7,True
+2026-09,"Frozen pizza, 390 grams","Pizza surgelé, 390 grammes",4.68,True
+2026-09,"Frozen spinach, 300 grams","Épinard surgelé, 300 grammes",2.14,True
+2026-09,"Frozen strawberries, 600 grams","Fraises surgelé, 600 grammes",5.28,True
+2026-09,"White bread, 675 grams","Pain blanc, 675 grammes",3.58,True
+2026-09,"Flatbread and pita, 500 grams ","Pain sans levain et pita, 500 grammes",3.51,True
+2026-09,"Crackers and crisp breads, 200 grams ","Craquelins et pain croustillant, 200 grammes",2.7,True
+2026-09,"Cookies and sweet biscuits, 300 grams ","Biscuits et biscuits sucrés, 300 grammes",3.51,True
+2026-09,"Dry or fresh pasta, 500 grams","Pâtes sèches ou fraîches, 500 grammes",3.4,True
+2026-09,"Brown rice, 900 grams ","Riz complet, 900 grammes",5.89,True
+2026-09,"White rice, 2 kilograms","Riz blanc, 2 kilogrammes",9.35,True
+2026-09,"Cereal, 400 grams","Céréales, 400 grammes",4.13,True
+2026-09,"Wheat flour, 2.5 kilograms","Farine de blé, 2,5 kilogrammes",5.12,True
+2026-09,"White sugar, 2 kilograms","Sucre blanc, 2 kilogrammes",2.62,True
+2026-09,"Apple juice, 2 litres","Jus de pomme, 2 litres",4.0,True
+2026-09,"Orange juice, 2 litres","Jus d’orange, 2 litres",6.08,True
+2026-09,"Roasted or ground coffee, 340 grams","Café torréfié ou moulu, 340 grammes",9.27,True
+2026-09,Tea (20 bags),Thé (20 sachets),4.46,True
+2026-09,"Ketchup, 1 litre","Ketchup, 1 litre",4.8,True
+2026-09,"Vegetable oil, 3 litres","Huile végétale, 3 litres",9.24,True
+2026-09,"Canola oil, 3 litres","Huile de canola, 3 litres",11.16,True
+2026-09,"Olive oil, 1 litre","Huile d'olive, 1 litre",11.04,True
+2026-09,"Baby food, 128 millilitres","Aliments pour bébés, 128 millilitres",1.5,True
+2026-09,"Infant formula, 900 grams ","Préparation pour nourrissons, 900 grammes",49.89,True
+2026-09,"Peanut butter, 1 kilogram","Beurre d’arachide, 1 kilogramme",5.99,True
+2026-09,"Mayonnaise, 890 millilitres ","Mayonnaise, 890 millilitres",6.68,True
+2026-09,"Canned baked beans, 398 millilitres","Fèves au lard en conserve, 398 millilitres",1.7,True
+2026-09,"Canned tomatoes, 796 millilitres","Tomates en conserve, 796 millilitres",2.07,True
+2026-09,"Canned soup, 284 millilitres","Soupe en conserve, 284 millilitres",1.31,True
+2026-09,"Canned beans and lentils, 540 millilitres","Haricots et lentilles en conserve, 540 millilitres",1.75,True
+2026-09,"Canned corn, 341 millilitres","Maïs en conserve, 341 millilitres",1.52,True
+2026-09,"Canned peach, 398 millilitres","Pêche en conserve, 398 millilitres",2.46,True
+2026-09,"Canned pear, 398 millilitres","Poire en conserve, 398 millilitres",2.76,True
+2026-09,"Dried lentils, 900 grams","Lentilles séchées, 900 grammes",3.56,True
+2026-09,"Dry beans and legumes, 900 grams ","Haricots et légumineuses secs, 900 grammes",3.52,True
+2026-09,"Tofu, 350 grams ","Tofu, 350 grammes",2.77,True
+2026-09,"Hummus, 227 grams","Houmous, 227 grammes",3.84,True
+2026-09,"Salsa, 418 millilitres","Salsa, 418 millilitres",5.11,True
+2026-09,"Pasta sauce, 650 millilitres","Sauce pour pâtes, 650 millilitres",3.47,True
+2026-09,"Salad dressing, 475 millilitres","Vinaigrette, 475 millilitres",3.59,True
+2026-09,"Almonds, 200 grams","Amandes, 200 grammes",5.46,True
+2026-09,"Peanuts, 450 grams","Arachides, 450 grammes",4.33,True
+2026-09,"Sunflower seeds, 400 grams ","Graines de tournesol, 400 grammes",5.05,True
+2026-09,"Deodorant, 85 grams","Déodorant, 85 grammes",8.32,True
+2026-09,"Toothpaste, 100 millilitres","Dentifrice, 100 millilitres",4.38,True
+2026-09,"Shampoo, 400 millilitres","Shampooing, 400 millilitres",7.3,True
+2026-09,"Laundry detergent, 4.43 litres","Détergent à lessive, 4,43 litres",14.48,True

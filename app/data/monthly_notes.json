@@ -1,52 +1,52 @@
 {
- "month": "2026-09",
- "previous_month": "2026-08",
- "stores_yoy": 1.7,
- "stores_yoy_prev": 2.8,
- "food_yoy": 2.2,
+ "month": "2026-10",
+ "previous_month": "2026-09",
+ "stores_yoy": 2.0,
+ "stores_yoy_prev": 1.7,
+ "food_yoy": 2.4,
  "restaurants_yoy": 3.1,
  "top_up": [
   {
    "en": "Fresh or frozen beef chuck cuts",
    "fr": "Basses côtes de bœuf fraîches ou surgelées",
-   "yoy": 19.5
+   "yoy": 13.6
   },
   {
-   "en": "Berries (including cherries)",
-   "fr": "Baies (y compris les cerises)",
-   "yoy": 16.6
+   "en": "Other fresh or frozen meat (excluding poultry)",
+   "fr": "Autres viandes fraîches ou surgelées (excluant la volaille)",
+   "yoy": 12.7
   },
   {
-   "en": "Grapes",
-   "fr": "Raisins",
-   "yoy": 13.1
+   "en": "Bananas",
+   "fr": "Bananes",
+   "yoy": 12.1
   }
  ],
  "top_down": [
   {
-   "en": "Cucumber",
-   "fr": "Concombre",
-   "yoy": -12.6
-  },
-  {
    "en": "Peppers",
    "fr": "Poivrons",
-   "yoy": -11.7
+   "yoy": -9.1
   },
   {
-   "en": "Soup",
-   "fr": "Soupe",
-   "yoy": -9.6
+   "en": "Bacon",
+   "fr": "Bacon",
+   "yoy": -8.1
+  },
+  {
+   "en": "Oranges",
+   "fr": "Oranges",
+   "yoy": -7.0
   }
  ],
  "province_high": {
   "geo": "Whitehorse, Yukon",
-  "yoy": 3.5
+  "yoy": 3.2
  },
  "province_low": {
   "geo": "Prince Edward Island",
-  "yoy": -0.4
+  "yoy": 0.1
  },
- "forecast_12m": 2.2,
- "forecast_month": "2027-09"
+ "forecast_12m": 2.3,
+ "forecast_month": "2027-10"
 }
